@@ -2,6 +2,6 @@
 
 ## Bootstrap Legos Project
 
-Select "Use this template" to copy the project to your own Github account.
+This project includes /cards, /centered, /columns, and /containers. /index contains a link to each.
 
-Google classroom will have further instructions on what to do and how to turn it in.
+This project evidences knowledge regarding Bootstrap 5 - particularly spacing on desktop and mobile.
